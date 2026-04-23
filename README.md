@@ -15,7 +15,7 @@ This app allows users to manage daily tasks with features like adding, completin
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * HTML5
 * CSS3
@@ -43,15 +43,6 @@ todo-app/
 
 ---
 
-##  Screenshots
-
-* Home screen with task input
-* Task list display
-* Completed tasks with strikethrough
-
-*(You can add screenshots here later for better presentation)*
-
----
 
 ##  Future Enhancements
 
